@@ -2,10 +2,10 @@
 
 #FrontEnd
 
-npm install
-npm start
+#npm install
+#npm start
 
 #BackEnd
 
-npm install
-node server.js
+#npm install
+#node server.js
